@@ -1,0 +1,19 @@
+{
+    "items": [
+        {
+            "type": "Book",
+            "item_id": "B101",
+            "title": "python programming",
+            "available": true
+        }
+    ],
+    "members": [
+        {
+            "type": "StudentMember",
+            "member_id": "S101",
+            "name": "Aman",
+            "borrowed_items": []
+        }
+    ],
+    "loans": {}
+}
